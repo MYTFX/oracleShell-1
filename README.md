@@ -22,15 +22,15 @@ oracle中的varchar2最多只能存储4000字符
 
 - 【原创】oracle提权执行命令工具oracleShell v0.1 - rebeyond - 博客园 (cnblogs.com)
 
-  https://www.cnblogs.com/rebeyond/p/7928887.html
+https://www.cnblogs.com/rebeyond/p/7928887.html
 
 - GitHub - jas502n/oracleShell: oracle 数据库命令执行
 
-  https://github.com/jas502n/oracleShell
+https://github.com/jas502n/oracleShell
   
  - quentinhardy/odat: ODAT: Oracle Database Attacking Tool
 
-  https://github.com/quentinhardy/odat
+https://github.com/quentinhardy/odat
 
 
 
